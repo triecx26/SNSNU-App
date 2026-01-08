@@ -1,0 +1,7 @@
+{
+  "name": "SNSNU-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
